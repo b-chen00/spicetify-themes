@@ -259,6 +259,10 @@
   background-color: #00000000 !important;
 }
 
+.main-yourLibraryX-libraryContainer {
+  background-color: #00000000 !important;
+}
+
 @keyframes twinkle1 {
   0% {
     box-shadow: 0px 0px 8px 2px var(--spice-star-glow);
